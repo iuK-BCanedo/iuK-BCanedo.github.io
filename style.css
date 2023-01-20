@@ -7,17 +7,23 @@ a {
 }
 h1 {
     color: rgb(32, 56, 192);
+    text-align: center;
 }
 h2{
     font-family: Arial, Helvetica, sans-serif;
+   
 }
 li{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     text-align: center;
 }
-#nome {
-    color: blueviolet;
-    font-family: 'Trebuchet MS';
-    font-size: 25px;
+#cid {
+    color: rgb(186, 214, 240);
+}
+#esc {
+    color: rgb(186, 214, 240);
+}
+#leg {
+    text-align-last: left;
 }
