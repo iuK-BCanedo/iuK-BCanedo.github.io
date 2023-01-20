@@ -27,6 +27,7 @@ li{
 #leg {
     text-align-last: left;
     position: absolute;
+    font-size: large;
 }
 #pontos {
     position: absolute;
